@@ -106,6 +106,15 @@ h2.card-title {
 body {
   font-family: "Ninja Naruto", arial;
 }
+.loader{
+  position: fixed;
+  display: block;
+  z-index: 2;
+  width: 100%;
+}
+.swiper{
+  margin-top: 113px;
+}
 
 /* Custom Scroll Bar */
 /* ::-webkit-scrollbar {
